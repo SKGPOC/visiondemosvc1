@@ -3,3 +3,7 @@ spring:
      name: service-1
 server:
   port: 8080
+vision:
+  app:
+    data:
+      covidURL: raw.githubusercontent.com/SKGPOC/visiondemosvc1/master/data/coviddata.json
